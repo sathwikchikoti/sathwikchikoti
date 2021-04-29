@@ -1,9 +1,5 @@
 ### Hola, I'm Sathwik cheekoti 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Open source contribution
 - 🌱 I’m currently learning c++ & Data structures
 - 👯 I’m looking to collaborate on Youtube
